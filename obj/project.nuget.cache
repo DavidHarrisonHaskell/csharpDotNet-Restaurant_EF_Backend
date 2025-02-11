@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1SWcBlYLuQ=",
+  "dgSpecHash": "XqDIRHMU58g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\OneDrive\\Documents\\John Bryce Matrix Course\\2025-01-28\\REST_API_using_EF_Restaurant\\REST_API_using_EF_Restaurant.csproj",
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\csharpDotNet-Restaurant_EF_Backend\\REST_API_using_EF_Restaurant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
