@@ -1,0 +1,6 @@
+@REST_API_using_EF_Restaurant_HostAddress = http://localhost:5008
+
+GET {{REST_API_using_EF_Restaurant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

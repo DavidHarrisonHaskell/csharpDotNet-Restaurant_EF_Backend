@@ -1,0 +1,6 @@
+.vs/
+# Ignore NuGet packages
+packages/
+*.nupkg
+*.snupkg
+

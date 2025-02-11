@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5CUrK/PuQkSJfWguiS2duGrPx3/TDPHwQitzaShv7Xw=",
+  "Source": "REST_API_using_EF_Restaurant",
+  "BasePath": "_content/REST_API_using_EF_Restaurant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

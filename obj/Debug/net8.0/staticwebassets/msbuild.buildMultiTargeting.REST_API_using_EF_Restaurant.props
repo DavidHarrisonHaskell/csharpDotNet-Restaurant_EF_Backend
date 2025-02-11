@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REST_API_using_EF_Restaurant.props" />
+</Project>
